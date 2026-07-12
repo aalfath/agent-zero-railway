@@ -2,7 +2,7 @@
 
 Deploy [Agent Zero](https://github.com/agent0ai/agent-zero) on [Railway](https://railway.com) with a persistent volume and mandatory login credentials.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new?template=https://github.com/<your-github-username>/agent-zero-railway)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new?template=https://github.com/aalfath/agent-zero-railway)
 
 > Agent Zero is an open-source, autonomous AI agent framework that runs in Docker, with a web UI, tools, memory, and browser and terminal capabilities.
 
