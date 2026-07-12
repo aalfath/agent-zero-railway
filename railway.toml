@@ -1,0 +1,8 @@
+[build]
+builder = "DOCKERFILE"
+dockerfilePath = "Dockerfile"
+
+[deploy]
+# Agent Zero initializes virtual environments on first boot and can take a while
+# to become ready, so keep the container running across restarts.
+restartPolicyType = "ALWAYS"
